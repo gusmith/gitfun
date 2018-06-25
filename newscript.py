@@ -1,1 +1,1 @@
-HI FROM TINA
+print("Hello, world" * 100)
